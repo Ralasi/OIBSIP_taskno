@@ -7,5 +7,3 @@
 [Personal Portfolio](https://ralasi.github.io/OIBSIP/personal_portfolio)
 
 [Temperature converter](https://ralasi.github.io/OIBSIP/temeprature_converter)
-
-
